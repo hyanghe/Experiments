@@ -1,0 +1,14 @@
+**/*.png
+**/*.jpg
+**/*.txt
+**/*.hdf5
+**/*.pt
+**/*.pth
+**/*.npy
+**/*.pyc
+**/*.xml
+**/*.yml
+**/*.iml
+**/*.gif
+**/Dockerfile
+**/LICENSE
